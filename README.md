@@ -2,7 +2,7 @@
 
 A 30-day, hands-on DevSecOps learning log built around a real project on AWS.
 
-Project repository: https://github.com/YOUR-USERNAME/pulsewatch
+Project repository: https://github.com/priyanshuprafful/pulsewatch
 
 ## Repository structure
 - `days/` - one note per day: what I learned, commands, what broke, interview questions
